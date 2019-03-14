@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1498592306 source:c:\emira\projekat\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"student.h"
+
+1498592707 c:\emira\projekat\student.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+
+1498592312 source:c:\emira\projekat\student.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	"student.h"
+
+1498590160 source:c:\users\user\desktop\projekat\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"student.h"
+
+1498590368 c:\users\user\desktop\projekat\student.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+
+1498590162 source:c:\users\user\desktop\projekat\student.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	"student.h"
+
+1498586560 source:c:\users\user\desktop\projekti sa fakulteta\informacioni_sistem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"student.h"
+
+1498586768 c:\users\user\desktop\projekti sa fakulteta\informacioni_sistem\student.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+
+1498586562 source:c:\users\user\desktop\projekti sa fakulteta\informacioni_sistem\student.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	"student.h"
+

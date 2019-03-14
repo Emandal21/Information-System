@@ -1,0 +1,11 @@
+
+Analiza 1 6
+Analiticka geometrija 9
+Uvod u matematicku logiku 10
+Elementarna matematika 7
+Uvod u racunarske tehnike 8
+Analiza 2 8
+Uvod u kompjuterske nauke 6
+Uvod u linearnu algebru 10
+Elementarna teorija brojeva 10
+Racunarski sistemi 8
